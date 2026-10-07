@@ -21,7 +21,7 @@ body.dark .card{background:#1e293b}
 <body>
 <div class="wrap">
   <div class="card">
-    <h1>有光</h1>
+    <h1>这里是有光</h1>
     <p>这是我的独属网页，正在慢慢开发。</p>
     <button id="btn">切换暗色</button>
   </div>
