@@ -1,6 +1,3 @@
-# -index.html
-奇幻空间
-```html
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -44,4 +41,3 @@ btn.onclick=()=>{
 </script>
 </body>
 </html>
-```
